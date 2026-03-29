@@ -75,7 +75,6 @@ Takes user input and generates a personalized open-source philosophy statement, 
 ## ▶️ How to Run the Scripts
 
 Step 1: Open Terminal and go to project folder
-```bash
 cd oss_project
 
 Step 2: Give execution permission
